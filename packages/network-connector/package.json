@@ -1,9 +1,9 @@
 {
-  "name": "@web3-react/network-connector",
+  "name": "@trustpad/web3-network-connector",
   "publishConfig": {
     "access": "public"
   },
-  "version": "6.1.10",
+  "version": "6.1.11",
   "description": "A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps",
   "keywords": [
     "react",
